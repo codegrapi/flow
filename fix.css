@@ -1,0 +1,13 @@
+.sad {
+        display:block !important;
+    }
+
+@media (max-width: 1666px) {
+    .sad {
+        display:none  !important;
+    }
+}
+
+.elementor-widget-slides {
+    overflow: hidden;
+}
